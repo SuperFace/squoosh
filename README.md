@@ -1,3 +1,4 @@
+# [在线图片压缩工具]!
 # [Squoosh]!
 
 [Squoosh] is an image compression web app that reduces image sizes through numerous formats.
